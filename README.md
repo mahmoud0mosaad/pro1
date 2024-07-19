@@ -1,15 +1,24 @@
 
-![pic](https://github.com/user-attachments/assets/f7ade815-02ff-4b59-a2fc-ef68bc2bb75c)
-E-Commerce Data Analysis Project
+# E-Commerce Data Analysis Project
 
-## Introduction:
+![pic](https://github.com/user-attachments/assets/f7ade815-02ff-4b59-a2fc-ef68bc2bb75c)
+
+## Table of Contents
+
+[Introduction](#Introduction)
+
+[Data Analysis](#Data_Analysis)
+
+[Next Steps](#Next_Steps)
+
+### Introduction
 
 The project aims to analyze sales data e_commerce platform to identify trends, patterns, and factors influencing sales performance.
 
 Objectives include understanding customer behavior, optimizing sales strategies, and identifying popular products correlated with delivery and customer data.
 
 
-# Data Collection and Preparation:
+### Data Collection and Preparation
 
 Data collected from the Kaggle platform and loaded into power bi.
 
@@ -20,7 +29,7 @@ Data modeling to make ralations between three tables that contains
 , Delivery Type , Product Category , SubCategory , Product , Unit Price , Shipping Fee , Order Quantity , Sale Price , Status)
 
 
-# Data Analysis:
+### Data Analysis
 
 Power BI used to create various analyses, such as yearly revenue, active customers, and top-selling products.
 
@@ -28,7 +37,7 @@ Different types of visualizations like charts and graphs were used to illustrate
 
 DAX functions(measures), transformations, and filters were utilized for data organization, and statistical extraction.
 
-## Results and Conclusions:
+### Results and Conclusions:
 
 Data analysis revealed important insights such as 
 Total Profit: The analysis revealed the total profit generated over the specified time period.
@@ -51,13 +60,13 @@ Top Selling Products Over the Years: Identified the products with the highest cu
 
 Conclusions suggested strategic opportunities to improve delivery services, marketing, and enhance the customer shopping experience.
 
-# Next Steps:
+### Next Steps:
 
 Based on the results, it is recommended to develop new marketing and delivery strategies to increase sales.
 
 Further analysis may be required to identify long-term trends and new opportunities.
 
-# References and Sources:
+### References and Sources:
 
 Data sourced from the Kaggle platform and analyzed using Power BI data analysis tools.
 
